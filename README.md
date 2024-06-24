@@ -1,4 +1,4 @@
-# Clase 21/06
+# Clase 24/06
 1. Abrir la terminal de Git Bash o terminal en Linux, debe ser como administrador en Window
 2. Creamos una carpeta o directorio: 
 ```sh
